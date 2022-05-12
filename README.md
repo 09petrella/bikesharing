@@ -28,11 +28,11 @@ This heatmap shows a breakdown of the highest hours bikes were rented broken dow
 
 This heatmap is similar to the previous one but is segmented to display the highest hours bikes were rented across genders. 
 
-![bike_repairs](bike_repairs.png)
+![bike_repairs](Resources/bike_repairs.png)
 
 This bar graph shows which bikes were used the highest amount during the month which the data was collected. These would more likely need repairs than other bikes that aren't used as often. 
 
-![user_trips_by_gender_by_weekday](user_trips_by_gender_by_weekday.png)
+![user_trips_by_gender_by_weekday](Resources/user_trips_by_gender_by_weekday.png)
 
 This heatmap shows the type of user renting the bike, if they are a customer or subscriber and is further segmented by gender along with the weekdays. A darker shade indicates a higher rate of bikes being rented. 
 
